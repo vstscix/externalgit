@@ -624,3 +624,4 @@
 "Build definition: Trigger-ExternalGit-CI-Tester_20200429.1 !" 
 "Build definition: Trigger-ExternalGit-CI-Tester_20200430.1 !" 
 "Build definition: Trigger-ExternalGit-CI-Tester_20200501.1 !" 
+"Build definition: Trigger-ExternalGit-CI-Tester_20200504.1 !" 
