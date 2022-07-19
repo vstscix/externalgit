@@ -1196,3 +1196,4 @@ Build definition: %BUILD_BUILDNUMBER% !
 "Build definition: Trigger-ExternalGit-CI-Tester_20220714.1 !" 
 "Build definition: Trigger-ExternalGit-CI-Tester_20220715.1 !" 
 "Build definition: Trigger-ExternalGit-CI-Tester_20220718.1 !" 
+"Build definition: Trigger-ExternalGit-CI-Tester_20220719.1 !" 
